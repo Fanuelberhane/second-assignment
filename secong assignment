@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>photos production</title>
+    <link rel="icon" href="camera logo.png">
+</head>
+<body>
+    <a href="https://www.pinterest.com/" target="_blank" title="go to pintrest page"><img src="pin logo.jpg" alt="image not avilble" width="200" height="200"></a>
+    <p><a href="https://www.pinterest.com/" target="_blank">pintrest home page</a> </p>
+    <p><a href="page 2.html">go to paage 2</a></p>
+    <p> <a href="mailto:fanuelberhanek@gmail.com" title="this send e mail to the phone company"><img src="image.jpeg " alt="image not avilble" width="200" height="200">send an e-mail</a></p>
+    <hr>
+    <a href="#c1"> chapter 1</a>
+    <a href="#c2"> chapter 2</a>
+    <a href="#c4"> chapter 4</a>
+     
+    <h2 id="c1">chapter 1</h2>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus, fugiat. Soluta repudiandae, reprehenderit et modi quia magnam sit dolorum voluptates, numquam asperiores dicta. Accusantium amet voluptate harum, quas id odit!</p>
+    <h2 id="c2">chapter 2</h2>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus, fugiat. Soluta repudiandae, reprehenderit et modi quia magnam sit dolorum voluptates, numquam asperiores dicta. Accusantium amet voluptate harum, quas id odit!</p>
+    <h2 id="c3">chapter 3</h2>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus, fugiat. Soluta repudiandae, reprehenderit et modi quia magnam sit dolorum voluptates, numquam asperiores dicta. Accusantium amet voluptate harum, quas id odit!</p>
+    <h2 id="c4">chapter 4</h2>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus, fugiat. Soluta repudiandae, reprehenderit et modi quia magnam sit dolorum voluptates, numquam asperiores dicta. Accusantium amet voluptate harum, quas id odit!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus, fugiat. Soluta repudiandae, reprehenderit et modi quia magnam sit dolorum voluptates, numquam asperiores dicta. Accusantium amet voluptate harum, quas id odit!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus, fugiat. Soluta repudiandae, reprehenderit et modi quia magnam sit dolorum voluptates, numquam asperiores dicta. Accusantium amet voluptate harum, quas id odit!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus, fugiat. Soluta repudiandae, reprehenderit et modi quia magnam sit dolorum voluptates, numquam asperiores dicta. Accusantium amet voluptate harum, quas id odit!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus, fugiat. Soluta repudiandae, reprehenderit et modi quia magnam sit dolorum voluptates, numquam asperiores dicta. Accusantium amet voluptate harum, quas id odit!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus, fugiat. Soluta repudiandae, reprehenderit et modi quia magnam sit dolorum voluptates, numquam asperiores dicta. Accusantium amet voluptate harum, quas id odit!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus, fugiat. Soluta repudiandae, reprehenderit et modi quia magnam sit dolorum voluptates, numquam asperiores dicta. Accusantium amet voluptate harum, quas id odit!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus, fugiat. Soluta repudiandae, reprehenderit et modi quia magnam sit dolorum voluptates, numquam asperiores dicta. Accusantium amet voluptate harum, quas id odit!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus, fugiat. Soluta repudiandae, reprehenderit et modi quia magnam sit dolorum voluptates, numquam asperiores dicta. Accusantium amet voluptate harum, quas id odit!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus, fugiat. Soluta repudiandae, reprehenderit et modi quia magnam sit dolorum voluptates, numquam asperiores dicta. Accusantium amet voluptate harum, quas id odit!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus, fugiat. Soluta repudiandae, reprehenderit et modi quia magnam sit dolorum voluptates, numquam asperiores dicta. Accusantium amet voluptate harum, quas id odit!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus, fugiat. Soluta repudiandae, reprehenderit et modi quia magnam sit dolorum voluptates, numquam asperiores dicta. Accusantium amet voluptate harum, quas id odit!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus, fugiat. Soluta repudiandae, reprehenderit et modi quia magnam sit dolorum voluptates, numquam asperiores dicta. Accusantium amet voluptate harum, quas id odit!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus, fugiat. Soluta repudiandae, reprehenderit et modi quia magnam sit dolorum voluptates, numquam asperiores dicta. Accusantium amet voluptate harum, quas id odit!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus, fugiat. Soluta repudiandae, reprehenderit et modi quia magnam sit dolorum voluptates, numquam asperiores dicta. Accusantium amet voluptate harum, quas id odit!</p>
+    <a href="#c1"> chapter 1</a>
+    <a href="#c2"> chapter 2</a>
+    <a href="#c4"> chapter 4</a>
+     
+</body>
+</html>
